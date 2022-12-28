@@ -9,7 +9,7 @@ Event Module,Logger With Event Emitter and HTTP Module.
 # MongoDB: 
 For Database I have used MongoDB. I have  learned and used MongoDB fundamentals and the syntax to create, read, update and delete documents/data.
 # Express JS:
-I have learn the basic concepts and usage of Express.js framework for Node.js.
+I have learn the basic concepts and usage of Express.js framework for Node.js.and make the member App
 # Angular :
 
 1. Angular framework fundamentals
